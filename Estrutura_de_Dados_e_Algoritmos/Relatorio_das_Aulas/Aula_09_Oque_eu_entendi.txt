@@ -1,0 +1,3 @@
+Nesta aula eu aprendi que grafo é uma estrutura que permite programar o relação
+entre objetos. Os objetos são vértices ou "nós" do grafo e os relacionamentos
+são arestas

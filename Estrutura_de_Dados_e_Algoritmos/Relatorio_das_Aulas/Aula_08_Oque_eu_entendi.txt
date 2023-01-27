@@ -1,0 +1,4 @@
+Nesta aula eu aprendi que Tabela Hashing é uma tabela de forma não ordenada 
+que permite que nós associamos valores as chaves tornando assim o processo de 
+busca mais eficiente
+ 

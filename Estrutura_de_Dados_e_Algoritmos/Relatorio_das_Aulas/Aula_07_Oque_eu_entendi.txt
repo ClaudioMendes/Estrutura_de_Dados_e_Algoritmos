@@ -1,0 +1,3 @@
+Nesta aula eu aprendi que a estrutura do tipo arvore ela quebra um  vetor no meio
+onde é criada a raiz e depois vai buscar as sub-árvores e depois busca os nós fazendo assim
+um processamento mais rápido

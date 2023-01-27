@@ -1,0 +1,10 @@
+Nesta aula eu aprendi que vetores e Matrizes ou arrays são estruturas de dados 
+simples que podem auxuliar quando há muitas variaveis do mesmo tipo em um 
+algoritimo
+
+um exerplo de como usar o vetor =  ao inves de você criar 3 variaveis cada uma com 
+um valor diferente você cria um vetor com 3 posições por exerplo 
+inteiro numero [] = {1,2,3}, lembrando que a primeira posição é sempre 0 a segunda 1
+terceira 2 e assim por diante
+
+exemplo de matrix = é como um vetor só que com duas dimenções (linha e coluna)

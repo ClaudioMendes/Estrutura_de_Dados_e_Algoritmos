@@ -1,0 +1,8 @@
+Nesta aula eu aprendi que Registro pode armazenar mais de um tipo de dados 
+como string, caracteres, real e por ai vai como por exemplo
+
+estrutura_cliente = registro
+	nome :caracter
+	idade :inteiro
+	altura :real
+fimregistro

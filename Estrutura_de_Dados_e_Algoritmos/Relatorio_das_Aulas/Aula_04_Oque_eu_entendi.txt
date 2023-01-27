@@ -1,0 +1,4 @@
+Nesta aula eu aprendi que a Lista é como um array só que o tamanho dela é 
+ajustavél diferente do array que o tamanho é fixo. Também aprendi que existem
+dois tipos de listar a ligada que contem amarração ao proximó nó e a duplamente
+ligada que contem amarração ao proximo nó e amarração ao nó anterior 

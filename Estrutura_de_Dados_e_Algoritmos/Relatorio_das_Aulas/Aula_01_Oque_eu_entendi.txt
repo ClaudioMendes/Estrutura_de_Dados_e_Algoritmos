@@ -1,0 +1,3 @@
+nesta aula eu aprendi que estrutura de dados é a forma que organizamos os
+dados na memoria que podem ser organizados através de algoritimos (um passo
+a passo de como realizar uma tarefa) 

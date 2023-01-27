@@ -1,0 +1,2 @@
+Nesta aula eu aprendi que em Filas, o primeiro a ser removido vai ser sempre o
+primeiro da fila, funciona como uma fila na vida real
